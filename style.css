@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     background-color: #fff3d0;
     text-align: center;
+    max-width: 600px;
 }
 
 h1{
@@ -15,5 +16,4 @@ p{
 
 #disqus_thread {
     margin: 2rem auto;
-    max-width: 600px;
 }
